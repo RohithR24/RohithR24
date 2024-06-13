@@ -1,4 +1,5 @@
-## Hello there! 🌟 Currently embarking on my Master's in Computer Science journey at California State University, I'm fueled by a passion for all things tech. 🔌⚙️
+## Hello there! 
+🌟 Currently embarking on my Master's in Computer Science journey at California State University, I'm fueled by a passion for all things tech. 🔌⚙️
 
 With an exciting 2.6 years of hands-on experience as a full stack developer at Collins Aerospace, I've had the privilege of diving headfirst into every layer of the development spectrum. From crafting captivating front-end interfaces to development of robust back-end solutions, I've found my sweet spot in the intersection of creativity and code. 💻🎨
 
