@@ -6,8 +6,6 @@ Web Developer
 
 Currently embarking on my Master's in Computer Science journey at California State University, I'm fueled by a passion for all things tech.
 
-* 🌍  I'm based in United States
-
 ### Skills
 
 
